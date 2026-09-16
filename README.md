@@ -15,42 +15,6 @@ You can support this project by becoming a sponsor on **[GitHub Sponsors](https:
 Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
-
-## 📚 Table of Contents
-
-- [Overview](#overview)
-- [Features](#Features)
-- [Contents](#Contents)
-- [Getting Started](#Getting-Started)
-- [Contributing](#Contributing)
-- [Contact](#Contact)
-- [Getting Started-Course 01](#Getting-Started-Course-01)
-- [Useful Python Resources](#useful-python-resources)
-
-
-
-## Overview: Python Notes for Beginners
-
-These notes cover the most essential topics in Python programming, designed for absolute beginners, students in computer science, and professionals learning data science.
-
-## **Features👋🛒**
-
-**1- Comprehensive Coverage:** Delve into the vast landscape of Python in Data Science, encompassing fundamental concepts, libraries, tools, and advanced techniques essential for data analysis, visualization, machine learning, and more.
-
-**2-Progressive Learning Path:** Follow a structured learning path that starts with foundational Python concepts and gradually progresses to advanced topics, ensuring a smooth and comprehensive learning experience.
-
-**3- Practical Implementations:** Gain practical insights through hands-on implementation examples, exercises, and projects that reinforce theoretical knowledge and foster a deeper understanding of Python's role in Data Science.
-
-**4- Supplementary Resources:** Access additional resources, including articles, tutorials, datasets, and recommended readings, to supplement your learning journey and stay updated with the latest developments in Python and Data Science.
-
-## **Contents👋🛒**
-
-**1- Foundations**: Explore basic Python syntax, data types, control structures, functions, and object-oriented programming principles.
-
-**2-Data Manipulation and Analysis:** Learn how to work with data using popular Python libraries such as NumPy, pandas, and matplotlib for tasks like data cleaning, transformation, aggregation, and visualization.
-
-**3- Machine Learning with Python:** Dive into the world of machine learning using libraries like scikit-learn and TensorFlow/Keras, covering topics such as regression, classification, clustering, and neural networks.
-
 ## Getting Started
 
 To follow these notes interactively:
@@ -140,7 +104,10 @@ Contributions are welcome! Whether it's fixing a bug, enhancing existing content
 - **[Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)** - FREE
 - **[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr0aCQA73AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=4838646&utm_content=b2c&utm_campaignid=clcoding&utm_term=14726_SI_1164545_#modules)** - FREE
 
-
+#### Websites 
+- **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** - FREE
+- **[Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/)** - FREE
+- **[Think Bayes 2](https://allendowney.github.io/ThinkBayes2/)** - FREE
 
 </details>
 
