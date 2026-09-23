@@ -112,7 +112,7 @@ Contributions are welcome! Whether it's fixing a bug, enhancing existing content
 </details>
 
 <details> 
-<summary> <h2> 📕Getting Started-Course 01 - 🐍Python </h2> </summary>
+<summary> <h2> 📕Getting Started-Course 01 - 🐍Python for GenAI </h2> </summary>
 
 ##📚 Python Basics
  
