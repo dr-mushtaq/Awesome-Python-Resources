@@ -112,6 +112,18 @@ Contributions are welcome! Whether it's fixing a bug, enhancing existing content
 </details>
 
 <details> 
+<summary> <h2> 📕Getting Started-Course 01 - 🐍Python </h2> </summary>
+
+##📚 Python Basics
+ 
+| Tutorial | Video▶️ | Code |Note|Extra Reading|
+|---|---|---|---|---|
+| [**✅1- Setup Environment for Python**](https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/Setup%20Environment%20for%20Python.md) | [1](https://www.youtube.com/watch?v=wdp7smAtqZI&list=PL4cUxeGkcC9goeb7U1FXFdNszWetCmhfB&index=1)[-2](https://www.youtube.com/watch?v=d332lDe1Ess) | Content 3 |
+
+</details>
+
+
+<details> 
 <summary> <h2>📕 Course 02 - 🛠️Machine Learning Libraries </h2> </summary>
 
 #### Tutorial 
