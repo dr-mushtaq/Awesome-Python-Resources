@@ -10,8 +10,10 @@ Welcome to the A-Z Guide to Python in Data Science repository! This comprehensiv
 
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **
+You can support this project by becoming a sponsor on 
+
 [<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/NeuralBreakdownwithAVB)
+
 Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
